@@ -1,1 +1,1 @@
-In this project, we leverage the robust capabilities of Pandas and NumPy libraries to manipulate data within a file, ensuring that the resultant changes elegantly cascade back into the original dataset.
+In this small project, we leverage the robust capabilities of Pandas and NumPy libraries to manipulate data within a file, ensuring that the resultant changes elegantly cascade back into the original dataset.
